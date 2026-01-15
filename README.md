@@ -2,6 +2,11 @@
 
 I made this a while ago for a high school class so I honestly don't remember much about it.
 
+I'll figure everything out later.
+
+## What's going on
+Choose your own adventure game with two options per "room". The goal is to get to a "room" where you can escape.
+
 ## Instructions
 
 On menu screen, press 'A' on keyboard to start, 'B' to close the program. Each decision can be made by clicking either of the two keys on the keyboard. 
@@ -16,3 +21,8 @@ There are multiple ways to lose and multiple ways to win. Press 'r' to restart g
 
 <img width="1749" height="1209" alt="Screenshot 2026-01-14 153938" src="https://github.com/user-attachments/assets/776a2673-0415-4c12-88af-c4e6a1a8b422" />
 
+## Credits
+- Menu music: Granny OST Main Menu
+- Background music: Granny OST Ambience
+- I can't lie I don't remember where I got the majority of the images--just that some of them are also from the Granny game. I do remember that I photshopped the text on the menu background image though.
+- Button click sound effect was probably from https://www.myinstants.com/
