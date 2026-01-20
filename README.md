@@ -1,6 +1,6 @@
 # Simple Choose Your Own Adventure Game
 
-I made this a while ago for a high school class so I honestly don't remember much about it.
+I made this a while ago for a high school class so I honestly don't remember much about it and I can't speak for the quality of the work. I had Python calculator project built using PyQt5 but I don't know where it went.
 
 I'll figure everything out later.
 
